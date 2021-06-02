@@ -1,9 +1,9 @@
  ![ Alt text](hello.gif) 
 
 <h1 align="center"> 👋, I'm Virad Chaurasia</h1>
-<h3 align="center">A passionate Game Developer,AR-VR Apps Developer.</h3>
+<h3 align="center">A passionate Game and AR-VR Apps Developer.</h3>
 
-- 🔭 for now i am learning **Augumented and Virtual Reality**
+- 🔭 For now i am learning **Augumented and Virtual Reality**
 
 - Currently working On **Unity and Vuforia Engine**
 
