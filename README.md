@@ -1,3 +1,5 @@
+![](hello.gif)
+
 <h1 align="center">Hi 👋, I'm Virad Chaurasia</h1>
 <h3 align="center">A passionate Game Developer,AR-VR Apps Developer.</h3>
 
