@@ -3,7 +3,7 @@
 <h1 align="center"> 👋, I'm Virad Chaurasia</h1>
 <h3 align="center">A passionate Game Developer,AR-VR Apps Developer.</h3>
 
-- 🔭 I’m currently working on **Augumented and Virtual Reality**
+- 🔭 for now i am learning **Augumented and Virtual Reality**
 
 - Currently working On **Unity and Vuforia Engine**
 
