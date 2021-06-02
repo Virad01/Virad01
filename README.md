@@ -13,7 +13,7 @@
 
 - 📝 Linkedin [https://www.linkedin.com/in/virad-chaurasia-49783b1b0/](https://www.linkedin.com/in/virad-chaurasia-49783b1b0/)
 
-- 📫 How to reach me **iamvirad09@gmail.com**
+- 📫 reach me at **iamvirad09@gmail.com**
 
 - ⚡ Fun fact **I Am a Good Comedian**
 
