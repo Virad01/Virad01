@@ -1,6 +1,7 @@
  ![ Alt text](hello.gif) 
 
 <h1 align="center"> 👋, I'm Virad Chaurasia</h1>
+![ Alt text](9(1).gif) 
 <h3 align="center">A passionate Game and AR-VR Apps Developer.</h3>
 
 - 🔭 For now i am learning **Augumented and Virtual Reality**
