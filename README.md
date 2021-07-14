@@ -6,6 +6,7 @@
 - 🔭 For now i am learning **Augumented and Virtual Reality**
 
 - Currently working On **Unity and Vuforia Engine**
+- I am also a **Full Stack Developer**
 
 - 👯 I’m looking to **Contribute on Github**
 
