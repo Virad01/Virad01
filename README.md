@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to **Contribute on Github**
 
-- 👨‍💻 Instagram [https://www.instagram.com/virad._.94/](https://www.instagram.com/virad._.94/)
+- 👨‍💻 Instagram [https://www.instagram.com/virad.zip/)
 
 - 📝 Linkedin [https://www.linkedin.com/in/virad-chaurasia-49783b1b0/](https://www.linkedin.com/in/virad-chaurasia-49783b1b0/)
 
