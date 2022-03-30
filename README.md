@@ -6,7 +6,7 @@
 
 - 🔭 For now i am learning **Augumented and Virtual Reality**
 
-- Currently working On **Unity **
+- Currently working On **Unity**
 - I am  a **PROGRAMMER**
 
 - 👯 I’m looking to **Contribute on Github**
