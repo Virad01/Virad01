@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web and AR-VR Apps Developer.</h3>
 <h3 align="center">Specialization Is For Insects.</h3>
 
-- 🔭 For now i am learning **Augumented and Virtual Reality**
+- 🔭 For now i am learning **Augumented and Virtual Reality with Artificial Intelligence**
 
 - Currently working On **Unity**
 - I am  a **PROGRAMMER**
