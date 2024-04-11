@@ -1,9 +1,5 @@
  ![ Alt text](hello.gif) 
 
-<h1 align="center"> 👋, I'm Virad Chaurasia</h1>
-<h3 align="center">A passionate AR-VR with AI Developer.</h3>
-<h3 align="center">Specialization Is For Insects.</h3>
-
 <h1 align="center">Hi 👋, I'm Virad Chaurasia</h1>
 <h3 align="center">A passionate Extended Reality (XR) AI-ML Developer</h3>
 
